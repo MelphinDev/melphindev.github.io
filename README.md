@@ -1,5 +1,5 @@
 # My Personal Website
-![Me](https://raw.githubusercontent.com/MelphinDev/melphindev.github.io/main/assets/images/Me.webp)
+<img src="https://raw.githubusercontent.com/MelphinDev/melphindev.github.io/main/assets/images/Me.webp" alt="Me" width="200" height="200" />
 A Personal Website of [MelphinDev](https://github.com/MelphinDev)
 
 ## Credit
